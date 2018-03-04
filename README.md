@@ -1,5 +1,6 @@
 Hello there!
 First of all,thank you for reviewing the repository.
+Please do review the Image first!
 Like Jawaharlal Nehru said,"great books makes one think since they are written by great minds!"
 -----------------------------
 So here's my plan,
